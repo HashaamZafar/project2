@@ -1,0 +1,29 @@
+body {
+    background-color: #eee;
+    font-size: 14px;
+}
+
+h1{
+     text-align: center;
+}
+h3{
+    text-align: left;
+}
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 10px;
+}
+
+header, footer {
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(252, 252, 253);
+    padding: 10px;
+}
+
+main {
+    background-color: cornsilk;
+    padding: 10px;
+}
